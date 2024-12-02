@@ -18,7 +18,7 @@ const TweetInput = ({ addTweet }) => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <label htmlFor="tweet-input">Tell me something good :-)</label>
+      <label htmlFor="tweet-input">Thanks for visiting my Twitter clone!</label>
       <input style={{marginRight: '25px', padding: '25px'}}
         id="tweet-input"
         type="text"
